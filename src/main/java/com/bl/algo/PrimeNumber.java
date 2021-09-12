@@ -3,7 +3,7 @@ package com.bl.algo;
 public class PrimeNumber {
 
     public static void main(String[] args) {
-        int n1 = 1, n2 = 1000;
+        int n1 = 0, n2 = 1000;
         primeNumbers(n1, n2);
     }
 
